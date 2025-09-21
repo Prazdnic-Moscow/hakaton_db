@@ -7,12 +7,13 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/CMakeLists.txt"
+  "/mnt/r/Project/hakaton_db/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeSystem.cmake"
   "/usr/local/lib/cmake/Drogon/DrogonConfig.cmake"
   "/usr/local/lib/cmake/Drogon/DrogonConfigVersion.cmake"
   "/usr/local/lib/cmake/Drogon/DrogonTargets-noconfig.cmake"
+  "/usr/local/lib/cmake/Drogon/DrogonTargets-release.cmake"
   "/usr/local/lib/cmake/Drogon/DrogonTargets.cmake"
   "/usr/local/lib/cmake/Drogon/DrogonUtilities.cmake"
   "/usr/local/lib/cmake/Drogon/FindFilesystem.cmake"
@@ -23,6 +24,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/lib/cmake/Trantor/TrantorConfig.cmake"
   "/usr/local/lib/cmake/Trantor/TrantorConfigVersion.cmake"
   "/usr/local/lib/cmake/Trantor/TrantorTargets-noconfig.cmake"
+  "/usr/local/lib/cmake/Trantor/TrantorTargets-release.cmake"
   "/usr/local/lib/cmake/Trantor/TrantorTargets.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"

@@ -1,3 +1,3 @@
-/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/build/CMakeFiles/my_app.dir
-/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/build/CMakeFiles/rebuild_cache.dir
+/mnt/r/Project/hakaton_db/build/CMakeFiles/my_app.dir
+/mnt/r/Project/hakaton_db/build/CMakeFiles/edit_cache.dir
+/mnt/r/Project/hakaton_db/build/CMakeFiles/rebuild_cache.dir

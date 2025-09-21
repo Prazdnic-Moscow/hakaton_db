@@ -1,6 +1,6 @@
 CMakeFiles/my_app.dir/myapp/main.cc.o: \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/main.cc \
- /usr/include/stdc-predef.h /usr/local/include/drogon/drogon.h \
+ /mnt/r/Project/hakaton_db/myapp/main.cc /usr/include/stdc-predef.h \
+ /usr/local/include/drogon/drogon.h \
  /usr/local/include/trantor/net/EventLoop.h \
  /usr/local/include/trantor/utils/NonCopyable.h \
  /usr/local/include/trantor/exports.h \

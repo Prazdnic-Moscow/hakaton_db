@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/mnt/r/Project/hakaton_db/build",
+  "command": "/usr/bin/g++  -I/mnt/r/Project/hakaton_db/. -I/mnt/r/Project/hakaton_db/myapp -I/mnt/r/Project/hakaton_db/myapp/Controller -I/mnt/r/Project/hakaton_db/myapp/Service -I/mnt/r/Project/hakaton_db/myapp/Repository -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/my_app.dir/myapp/main.cc.o -c /mnt/r/Project/hakaton_db/myapp/main.cc",
+  "file": "/mnt/r/Project/hakaton_db/myapp/main.cc",
+  "output": "CMakeFiles/my_app.dir/myapp/main.cc.o"
+},
+{
+  "directory": "/mnt/r/Project/hakaton_db/build",
+  "command": "/usr/bin/g++  -I/mnt/r/Project/hakaton_db/. -I/mnt/r/Project/hakaton_db/myapp -I/mnt/r/Project/hakaton_db/myapp/Controller -I/mnt/r/Project/hakaton_db/myapp/Service -I/mnt/r/Project/hakaton_db/myapp/Repository -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o -c /mnt/r/Project/hakaton_db/myapp/Controller/ClickController.cc",
+  "file": "/mnt/r/Project/hakaton_db/myapp/Controller/ClickController.cc",
+  "output": "CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o"
+},
+{
+  "directory": "/mnt/r/Project/hakaton_db/build",
+  "command": "/usr/bin/g++  -I/mnt/r/Project/hakaton_db/. -I/mnt/r/Project/hakaton_db/myapp -I/mnt/r/Project/hakaton_db/myapp/Controller -I/mnt/r/Project/hakaton_db/myapp/Service -I/mnt/r/Project/hakaton_db/myapp/Repository -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o -c /mnt/r/Project/hakaton_db/myapp/Service/ClickService.cc",
+  "file": "/mnt/r/Project/hakaton_db/myapp/Service/ClickService.cc",
+  "output": "CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o"
+},
+{
+  "directory": "/mnt/r/Project/hakaton_db/build",
+  "command": "/usr/bin/g++  -I/mnt/r/Project/hakaton_db/. -I/mnt/r/Project/hakaton_db/myapp -I/mnt/r/Project/hakaton_db/myapp/Controller -I/mnt/r/Project/hakaton_db/myapp/Service -I/mnt/r/Project/hakaton_db/myapp/Repository -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o -c /mnt/r/Project/hakaton_db/myapp/Repository/ClickRepository.cc",
+  "file": "/mnt/r/Project/hakaton_db/myapp/Repository/ClickRepository.cc",
+  "output": "CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o"
+}
+]

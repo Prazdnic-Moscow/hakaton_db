@@ -1,7 +1,7 @@
 CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o: \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Repository/ClickRepository.cc \
+ /mnt/r/Project/hakaton_db/myapp/Repository/ClickRepository.cc \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Repository/ClickRepository.h \
+ /mnt/r/Project/hakaton_db/myapp/Repository/ClickRepository.h \
  /usr/local/include/drogon/orm/DbClient.h \
  /usr/local/include/drogon/exports.h \
  /usr/local/include/drogon/orm/Exception.h /usr/include/c++/13/functional \
@@ -242,7 +242,7 @@ CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o: \
  /usr/include/c++/13/bits/stl_deque.h /usr/include/c++/13/bits/deque.tcc \
  /usr/include/c++/13/stack /usr/include/c++/13/bits/stl_stack.h \
  /usr/include/jsoncpp/json/writer.h /usr/include/c++/13/optional \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Repository/../Model/ClickModel.h \
+ /mnt/r/Project/hakaton_db/myapp/Repository/../Model/ClickModel.h \
  /usr/local/include/drogon/drogon.h \
  /usr/local/include/trantor/net/EventLoop.h \
  /usr/local/include/trantor/utils/LockFreeQueue.h \

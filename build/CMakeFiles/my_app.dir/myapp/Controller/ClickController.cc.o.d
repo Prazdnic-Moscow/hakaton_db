@@ -1,7 +1,7 @@
 CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o: \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Controller/ClickController.cc \
+ /mnt/r/Project/hakaton_db/myapp/Controller/ClickController.cc \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Controller/ClickController.h \
+ /mnt/r/Project/hakaton_db/myapp/Controller/ClickController.h \
  /usr/local/include/drogon/drogon.h \
  /usr/local/include/trantor/net/EventLoop.h \
  /usr/local/include/trantor/utils/NonCopyable.h \
@@ -332,8 +332,8 @@ CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o: \
  /usr/local/include/drogon/IntranetIpFilter.h \
  /usr/local/include/drogon/LocalHostFilter.h \
  /usr/local/include/drogon/IOThreadStorage.h \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Controller/../Service/ClickService.h \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Controller/../Service/../Model/ClickModel.h \
- /mnt/c/Users/markm/OneDrive/Рабочий\ стол/Ярик/hakaton/myapp/Controller/../Service/../Repository/ClickRepository.h \
+ /mnt/r/Project/hakaton_db/myapp/Controller/../Service/ClickService.h \
+ /mnt/r/Project/hakaton_db/myapp/Controller/../Service/../Model/ClickModel.h \
+ /mnt/r/Project/hakaton_db/myapp/Controller/../Service/../Repository/ClickRepository.h \
  /usr/include/c++/13/list /usr/include/c++/13/bits/stl_list.h \
  /usr/include/c++/13/bits/list.tcc

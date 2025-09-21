@@ -1,9 +1,8 @@
 #include "ClickRepository.h"
 UserData ClickRepository::registerClick()
 {
-    auto trans = db_->newTransaction();
     // 1. Создаём пользователя
-    auto result = trans->execSqlSync
+    auto result = db_->execSqlSync
     (
         "INSERT INTO clickcount (time_click) "
         "VALUES (NOW()) "

@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/myapp/Controller/ClickController.cc" "CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o.d"
-  "/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/myapp/Repository/ClickRepository.cc" "CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o.d"
-  "/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/myapp/Service/ClickService.cc" "CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o.d"
-  "/mnt/c/Users/markm/OneDrive/Рабочий стол/Ярик/hakaton/myapp/main.cc" "CMakeFiles/my_app.dir/myapp/main.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/main.cc.o.d"
+  "/mnt/r/Project/hakaton_db/myapp/Controller/ClickController.cc" "CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Controller/ClickController.cc.o.d"
+  "/mnt/r/Project/hakaton_db/myapp/Repository/ClickRepository.cc" "CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Repository/ClickRepository.cc.o.d"
+  "/mnt/r/Project/hakaton_db/myapp/Service/ClickService.cc" "CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/Service/ClickService.cc.o.d"
+  "/mnt/r/Project/hakaton_db/myapp/main.cc" "CMakeFiles/my_app.dir/myapp/main.cc.o" "gcc" "CMakeFiles/my_app.dir/myapp/main.cc.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
